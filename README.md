@@ -48,6 +48,8 @@ I am a programming student and passionate about technology. I am always looking 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua5702&layout=compact&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaua5702&theme=dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 ---
 
 ## 🚀 Philosophy
