@@ -15,7 +15,7 @@ I am a programming student and passionate about technology. I am always looking 
   <a href="https://github.com/kaua5702">
     <img src="https://img.shields.io/badge/GitHub-KAUABISCOTTO-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/kaua_biscotto">
+  <a href="https://instagram.com/kauabiscotto">
     <img src="https://img.shields.io/badge/Instagram-@kaua_biscotto-E45?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
