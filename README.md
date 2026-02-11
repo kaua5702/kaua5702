@@ -45,13 +45,13 @@ I am a programming student and passionate about technology. I am always looking 
 ---
 ## 📊 GitHub Status
 
-| Estatísticas | Linguagens |
-|--------------|------------|
-| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaua5702&theme=dark) | ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaua5702&theme=dark) |
+| Estatísticas | Linguagens | Tempo Produtivo |
+|--------------|------------|-----------------|
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaua5702&theme=dark) | ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaua5702&theme=dark) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaua5702&theme=dark) |
 
-| Perfil | Tempo Produtivo |
-|--------|-----------------|
-| ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaua5702&theme=dark) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaua5702&theme=dark) |mary-cards.vercel.app/api/cards/profile-details?username=kaua5702&theme=dark) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaua5702&theme=dark) |
+| Perfil |
+|--------------|
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaua5702&theme=dark)
 ---
 
 ## 🚀 Philosophy
