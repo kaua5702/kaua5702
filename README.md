@@ -43,17 +43,11 @@ I am a programming student and passionate about technology. I am always looking 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaua5702&show_icons=true&theme=dark)
 
-## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua5702&layout=compact&theme=dark)
 
-
-## 📊 GitHub Status
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaua5702&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua5702&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaua5702&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaua5702&theme=dark)
 ---
 
 ## 🚀 Philosophy
