@@ -46,7 +46,7 @@ I am a programming student and passionate about technology. I am always looking 
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaua5702)](https://github.com/kaua5702/github-readme-stats)
 
 ---
 
