@@ -45,13 +45,15 @@ I am a programming student and passionate about technology. I am always looking 
 ---
 ## 📊 GitHub Status
 
-| Estatísticas (Nota) | Linguagens | Commits |
-|---------------------|------------|---------|
-| ![Grade](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaua5702&theme=dark) | ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaua5702&theme=dark) | ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaua5702&theme=dark) |
+## 📊 GitHub Status
 
-| Perfil | Tempo Produtivo |
-|--------|-----------------|
-| ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaua5702&theme=dark) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaua5702&theme=dark) |
+| Estatísticas | Linguagens | Commits |
+|--------------|------------|---------|
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaua5702&theme=dark) | ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaua5702&theme=dark) | ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaua5702&theme=dark) |
+
+| Perfil | Tempo Produtivo | Detalhes |
+|--------|-----------------|----------|
+| ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaua5702&theme=dark) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaua5702&theme=dark) | ![Grade](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaua5702&theme=dark) |
 ---
 
 ## 🚀 Philosophy
