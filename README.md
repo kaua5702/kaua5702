@@ -3,13 +3,13 @@
 🚀 **Estudante de Programação | Java & Python**  
 🇧🇷 Brazil
 
-## 👨‍💻 About me
+##  About me
 
 I am a programming student and passionate about technology. I am always looking to learn more, explore new tools, and develop my skills. My goal is to constantly evolve as a developer and contribute to projects that make a difference.  
 
 ---
 
-## 🌐 Where to find me
+##  Where to find me
 
 <p align="left">
   <a href="https://github.com/kaua5702">
@@ -22,7 +22,7 @@ I am a programming student and passionate about technology. I am always looking 
 ---
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 
@@ -36,7 +36,7 @@ I am a programming student and passionate about technology. I am always looking 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
-## 📊 GitHub Status
+##  GitHub Status
 
 | Estatísticas | Linguagens | Tempo Produtivo |
 |--------------|------------|-----------------|
@@ -47,7 +47,7 @@ I am a programming student and passionate about technology. I am always looking 
 ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaua5702&theme=dark)
 ---
 
-## 🚀 Philosophy
+##  Philosophy
 
 > _"I believe that technology is a bridge between ideas and real impact. As a programming student, I always seek to learn, grow, and share knowledge. My philosophy is simple: **clean code, scalable solutions, and constant learning**. Every line written is an opportunity to grow and transform the world around me."_
 
