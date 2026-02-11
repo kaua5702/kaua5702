@@ -45,13 +45,13 @@ I am a programming student and passionate about technology. I am always looking 
 ---
 ## 📊 GitHub Status
 
-| Tema 1 | Tema 2 | Tema 3 |
-|--------|--------|--------|
-| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaua5702&theme=radical) | ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaua5702&theme=radical) | ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaua5702&theme=radical) |
+| Estatísticas | Linguagens | Commits |
+|--------------|------------|---------|
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaua5702&theme=dark) | ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaua5702&theme=dark) | ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaua5702&theme=dark) |
 
-| Atividade | Contribuições | Perfil |
-|-----------|---------------|--------|
-| ![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaua5702&theme=radical) | ![Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaua5702&theme=radical) | ![Grade](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaua5702&theme=radical) |
+| Perfil | Tempo Produtivo | Detalhes |
+|--------|-----------------|----------|
+| ![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaua5702&theme=dark) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaua5702&theme=dark) | ![Grade](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaua5702&theme=dark) |
 
 ---
 
