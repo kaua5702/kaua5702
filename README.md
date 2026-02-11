@@ -43,13 +43,16 @@ I am a programming student and passionate about technology. I am always looking 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaua5702&show_icons=true&theme=dark)
+## 📊 GitHub Status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua5702&layout=compact&theme=dark)
+| Tema 1 | Tema 2 | Tema 3 |
+|--------|--------|--------|
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaua5702&theme=radical) | ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaua5702&theme=radical) | ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaua5702&theme=radical) |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaua5702&theme=dark)
+| Atividade | Contribuições | Perfil |
+|-----------|---------------|--------|
+| ![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaua5702&theme=radical) | ![Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaua5702&theme=radical) | ![Grade](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaua5702&theme=radical) |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaua5702&show_icons=true&theme=dark)
 ---
 
 ## 🚀 Philosophy
