@@ -47,8 +47,12 @@ I am a programming student and passionate about technology. I am always looking 
 ## 📊 GitHub Stats
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaua5702&show_icons=true&theme=radical)
+## 📊 GitHub Status
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaua5702&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaua5702&layout=compact&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaua5702&theme=radical)
 ---
 
