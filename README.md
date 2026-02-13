@@ -24,7 +24,7 @@ I am a programming student and passionate about technology. I am always looking 
 <a href="https://www.linkedin.com/in/kauã-biscotto">
   <img src="https://img.shields.io/badge/LinkedIn-kauã--biscotto-purple?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
->
+
 
 ---
 
