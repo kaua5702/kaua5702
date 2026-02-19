@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kauã Biscotto
 
 🚀 **Estudante de Programação | Java & Python**  
-🇧🇷 Brazil
+🇧🇷 Brasil
 
 ##  About me
 
