@@ -11,10 +11,6 @@ I am a programming student and passionate about technology. I am always looking 
 
 ##  Where to find me
 
-<p align="left">
-  <a href="https://github.com/kaua5702">
-    <img src="https://img.shields.io/badge/GitHub-KAUABISCOTTO-181717?style=for-the-badge&logo=github" />
-  </a>
 <!-- Email -->
 <a href="mailto:kaua.biscotto1405@gmail.com">
   <img src="https://img.shields.io/badge/Email-kaua.biscotto1405@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
