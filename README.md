@@ -16,6 +16,7 @@ I am a programming student and passionate about technology. I am always looking 
   <img src="https://img.shields.io/badge/Email-kaua.biscotto1405@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/kauã-biscotto">
   <img src="https://img.shields.io/badge/LinkedIn-kauã--biscotto-purple?style=for-the-badge&logo=linkedin&logoColor=white" />
